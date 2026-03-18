@@ -3,9 +3,10 @@
 
 ## Demo Sản phẩm
 <div align="center">
-  ![Weather App Demo]([Dán_Link_GIF_Của_Bạn_Vào_Đây](https://github.com/user-attachments/assets/f9fb02aa-6df7-4411-990a-ec81e7190927))
+  <video src="https://github.com/user-attachments/assets/f9fb02aa-6df7-4411-990a-ec81e7190927" width="300" controls autoplay loop muted>
+    Trình duyệt của bạn không hỗ trợ xem video trực tiếp.
+  </video>
 </div>
-
 ## Tính năng nổi bật
 * **Dữ liệu thời gian thực:** Kết nối OpenWeatherMap API chính xác.
 * **Giao diện hiện đại:** Thiết kế Glassmorphism và hiệu ứng Gradient động theo thời tiết.

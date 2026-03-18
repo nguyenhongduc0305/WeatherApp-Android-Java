@@ -17,7 +17,7 @@ Ngôn ngữ: Java & XML (Android SDK).
 hư viện: Retrofit 2 (Networking), Picasso (Image Loading), Lottie (Animation).
 Kiến trúc: ViewBinding.
 
-## Cấu trúc thư mục sạch
+Cấu trúc thư mục sạch
 `app/`: Chứa toàn bộ mã nguồn và tài nguyên giao diện.
 `apk/`: Chứa file cài đặt dùng thử.
 `SS/`: Hình ảnh và video minh họa dự án.

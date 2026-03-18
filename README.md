@@ -21,6 +21,3 @@
 * `app/`: Chứa toàn bộ mã nguồn và tài nguyên giao diện.
 * `apk/`: Chứa file cài đặt dùng thử.
 * `SS/`: Hình ảnh và video minh họa dự án.
-
----
- Phát triển bởi: Nguyễn Hồng Đức - Hà Nội

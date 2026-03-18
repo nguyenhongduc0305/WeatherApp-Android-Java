@@ -1,8 +1,6 @@
 Weather Forecast App (Android - Java)
 Ứng dụng dự báo thời tiết hiện đại với giao diện động và định vị thông minh.
 
-Demo Sản phẩm
-![Demo App](https://github.com/user-attachments/assets/f9fb02aa-6df7-4411-990a-ec81e7190927)
 Tính năng nổi bật
 Dữ liệu thời gian thực: Kết nối OpenWeatherMap API chính xác.
 Giao diện hiện đại: Thiết kế Glassmorphism và hiệu ứng Gradient động theo thời tiết.
